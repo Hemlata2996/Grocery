@@ -50,7 +50,6 @@ function ProductScreen(props) {
                             <option>4</option>
                             </select>
                     </li>
-
                 </ul>
             </div>
         </div>
