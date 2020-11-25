@@ -1,6 +1,6 @@
 # Grocery
 A grocery website that has some frontend written in React
 
+Video for how the website looks like is below:
 
-
-<a href="https://imgflip.com/gif/4nv9jn"><img src="https://imgflip.com/embed/4nv9jn" title="grocery" /></a>
+https://vimeo.com/user127921547/review/483813018/a2ba14a1e0
