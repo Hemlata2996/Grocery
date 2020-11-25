@@ -38,7 +38,6 @@ function App() {
          <li>
           <a href="index.html">Fruits</a>
         </li>
-
       </ul>
     </aside>
     <main className="main">
